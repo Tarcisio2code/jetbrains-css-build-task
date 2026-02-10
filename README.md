@@ -74,3 +74,6 @@ dist/
 ## 📖 Summary
 This project uses Webpack to ensure a predictable and fully transparent CSS build process, with explicit control over asset transformations and source map generation.
 The choice prioritizes debuggability, determinism, and tooling compatibility, aligning with workflows where precise inspection of compiled CSS and reliable IDE integration are essential.
+
+## 🔍 Investigation Report
+_For the detailed analysis of computed styles and source mapping, please refer to [INVESTIGATION.md](https://github.com/Tarcisio2code/jetbrains-css-build-task/blob/master/INVESTIGATION.md)._
